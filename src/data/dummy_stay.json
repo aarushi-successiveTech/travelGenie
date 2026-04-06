@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bnb Hotel",
+    "type": "hostel",
+    "price_per_night": 800,
+    "location": "Greater Noida",
+    "rating": 4.5,
+    "amenities": ["wifi", "common_area", "kitchen"],
+    "ideal_for": ["solo", "friends"]
+  },
+  {
+    "name": "Taj Stays",
+    "type": "hotel",
+    "price_per_night": 12000,
+    "location": "Noida",
+    "rating": 4.8,
+    "amenities": ["pool", "spa", "wifi", "common_area"],
+    "ideal_for": ["family", "couple"]
+  }
+]
